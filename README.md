@@ -1,4 +1,4 @@
-##  🔭 I’m currently working on ...
+### Hi, I am Vanessa Penagos 💜👋
 
 ```python
 class Vanessa:
