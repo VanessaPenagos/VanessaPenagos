@@ -15,3 +15,5 @@ vane = Vanessa("Vanessa Penagos", "Software Engineer")
 vane.aboutMe()
     
 ```
+
+<h2> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About me...</h2>
