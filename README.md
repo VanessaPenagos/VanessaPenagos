@@ -1,6 +1,6 @@
 
 <h2> Hey! I'm Vanessa Penagos <img src="https://media.giphy.com/media/5bdhq6YF0szPaCEk9Y/giphy.gif" width="60"> </h2>
-<img align='right' src="https://static.dribbble.com/users/876183/screenshots/4178051/_______.gif" width="330">
+<img align='right' src="https://static.dribbble.com/users/876183/screenshots/4178051/_______.gif" width="300">
 
 ```python
 class Vanessa:
