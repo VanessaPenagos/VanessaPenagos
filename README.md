@@ -20,6 +20,6 @@ vane.aboutMe()
 
 🐨  I'm Software engineer who is passionate about the algorithm and programming. <br>
 🐹  I work as a development engineer at Audifarma. <br>
-🐭  I like to learn about Geographic Information Systems(GIS). <br>
+🐭  I'm learning about Geographic Information Systems(GIS). <br>
 🐿️  I like Python, C++ and Javascript. <br>
 🐥🐯🐰 I love It 💜  
