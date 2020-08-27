@@ -16,4 +16,10 @@ vane.aboutMe()
     
 ```
 
-<h2> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About me...</h2>
+<h2>  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About me...</h2><br>
+
+🐨  I'm Software engineer who is passionate about the algorithm and programming. <br>
+🐹  I work as a development engineer at Audifarma. <br>
+🐭  I like to learn about Geographic Information Systems(GIS). <br>
+🐿️  I like Python, C++ and Javascript. <br>
+🐥🐯🐰 I love It 💜  
