@@ -23,3 +23,6 @@ vane.aboutMe()
 🐭  I'm learning about Cyber Security. <br>
 🐿️  I like Python, C++ and Javascript. <br>
 🐥🐯🐰 I love It 💜  
+
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaPenagos&layout=compact" />
